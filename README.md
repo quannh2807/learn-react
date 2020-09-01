@@ -20,3 +20,7 @@
 ## 7. Immutability (mutate: bất biến, mutable: có thể, mutability: có khả năng)
 - Thay đổi propety so với ban đầu, làm chương trình khó đoán khó kiểm soát
 - [Viblo](https://viblo.asia/p/immutability-va-immutablejs-trong-reactjs-m68Z0OrdKkG)
+## 8. Props child
+## 9. [propTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+- Kiểm tra kiểu dữ liệu truyền vào
+- [docs](https://www.npmjs.com/package/prop-types)
