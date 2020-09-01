@@ -1,0 +1,42 @@
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.Todo {
+    font-family: Fira Code, Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    color: #4d4d4d;
+    padding: 10px 40px;
+    border: 1px solid #b1b1b166;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Todo-complete {
+    text-decoration: line-through;
+    opacity: 0.3;
+    background: rgba(0, 0, 0, 0.055);
+}
+
+.Todo .btn-check {
+    margin-left: 20px;
+    height: 40px;
+    width: 40px;
+    border: none;
+}
+
+.Todo .btn-check.check {
+    background: url("./images/check.svg");
+}
+
+.Todo .btn-check.checked {
+    background-image: url("./images/checked.svg");
+}
+
+/* .Todo.Todo-complete .btn-check {
+    background: url('./images/checked.svg');
+} */
