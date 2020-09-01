@@ -24,3 +24,15 @@
 ## 9. [propTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 - Kiểm tra kiểu dữ liệu truyền vào
 - [docs](https://www.npmjs.com/package/prop-types)
+## 10. React.createRef()
+## 11. [Component Lifecycles](https://viblo.asia/p/reactjs-tim-hieu-ve-component-life-cycle-naQZRw4Plvx)
+## 12. Story book
+## 13. Functional Stateless Component
+## 14. High-order components(HOCs)
+- [Medium](https://medium.com/@ngocson11394/t%C3%ACm-hi%E1%BB%83u-v%E1%BB%81-react-higher-order-components-qua-v%C3%AD-d%E1%BB%A5-ba428bc3d037)
+## 15. Render Props
+- [Provider](https://reactjs.org/docs/context.html#contextprovider)
+- [Comsumer](https://reactjs.org/docs/context.html#contextconsumer)
+## 16. Context API
+## 17. Functional setState
+## 18. React hooks
